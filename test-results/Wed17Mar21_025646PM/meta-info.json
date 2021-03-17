@@ -1,0 +1,13 @@
+{
+  "name": "testNGPractice",
+  "status": "unstable",
+  "tests": [
+    "testNGPractice_chromTest"
+  ],
+  "total": 0,
+  "pass": 0,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1616011006657,
+  "endTime": 1616011014565
+}

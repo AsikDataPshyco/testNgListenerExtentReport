@@ -1,0 +1,148 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StatusReport",
+        "name": "statusReport",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013875873,
+      "duration": 34,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Setup",
+        "name": "setup",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013875963,
+      "duration": -1616013875963,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgOPenTheBrower",
+        "name": "testNgOPenTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013875977,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "GetResults",
+        "name": "getResults",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013875996,
+      "duration": -1616013875996,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Setup_1",
+        "name": "setup",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013876010,
+      "duration": -1616013876010,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgCloseTheBrower",
+        "name": "testNgCloseTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013876023,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "GetResults_2",
+        "name": "getResults",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013876041,
+      "duration": -1616013876041,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EndReport",
+        "name": "endReport",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013876054,
+      "duration": -1616013876054,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

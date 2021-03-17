@@ -1,0 +1,76 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Setup",
+        "name": "setup",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013328312,
+      "duration": 2125,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StatusReport",
+        "name": "statusReport",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013330470,
+      "duration": 16,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgOPenTheBrower",
+        "name": "testNgOPenTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013330528,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgCloseTheBrower",
+        "name": "testNgCloseTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616013330560,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

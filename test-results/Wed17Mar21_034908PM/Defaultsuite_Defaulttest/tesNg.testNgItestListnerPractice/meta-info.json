@@ -1,0 +1,112 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "StatusReport",
+        "name": "statusReport",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148575,
+      "duration": 41,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgOPenTheBrower",
+        "name": "testNgOPenTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148668,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "GetResults",
+        "name": "getResults",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148688,
+      "duration": -1616014148688,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestNgCloseTheBrower",
+        "name": "testNgCloseTheBrower",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148705,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "GetResults_1",
+        "name": "getResults",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148722,
+      "duration": -1616014148722,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "EndReport",
+        "name": "endReport",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616014148736,
+      "duration": -1616014148736,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

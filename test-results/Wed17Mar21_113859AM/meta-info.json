@@ -1,0 +1,13 @@
+{
+  "name": "testNGPractice",
+  "status": "pass",
+  "tests": [
+    "testNGPractice_chromTest"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1615999139542,
+  "endTime": 1615999148591
+}

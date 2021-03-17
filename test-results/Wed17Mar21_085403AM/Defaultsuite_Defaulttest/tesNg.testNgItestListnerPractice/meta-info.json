@@ -1,0 +1,40 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testNgOPenTheBrower",
+        "resultFileName": "TestNgOPenTheBrower",
+        "sign": "testNgItestListnerPractice.testNgOPenTheBrower()[pri:0, instance:tesNg.testNgItestListnerPractice@7d7758be]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615989243538,
+      "duration": 4211,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testNgCloseTheBrower",
+        "resultFileName": "TestNgCloseTheBrower",
+        "sign": "testNgItestListnerPractice.testNgCloseTheBrower()[pri:0, instance:tesNg.testNgItestListnerPractice@7d7758be]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615989247795,
+      "duration": 3108,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

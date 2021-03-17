@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testNGPractice]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="tesNg.Listener"/>
+  </listeners>
+  <test thread-count="5" name="chromTest(failed)">
+    <classes>
+      <class name="tesNg.testNgItestListnerPractice">
+        <methods>
+          <include name="testNgCloseTheBrower"/>
+          <include name="statusReport"/>
+          <include name="setup"/>
+          <include name="testNgOPenTheBrower"/>
+        </methods>
+      </class> <!-- tesNg.testNgItestListnerPractice -->
+    </classes>
+  </test> <!-- chromTest(failed) -->
+</suite> <!-- Failed suite [testNGPractice] -->

@@ -1,0 +1,32 @@
+{
+  "total": 2,
+  "pass": 2,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "tesNg.testNgItestListnerPractice"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": null,
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0",
+      "qaf-Build-Time": "26-Jul-2020 22:16:34",
+      "qaf-Version": "3.0"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "15",
+      "os.arch": "amd64",
+      "host": "InuKabu",
+      "os.name": "Windows 10",
+      "user.name": "asket",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1616002031216,
+  "endTime": 1616002040212
+}

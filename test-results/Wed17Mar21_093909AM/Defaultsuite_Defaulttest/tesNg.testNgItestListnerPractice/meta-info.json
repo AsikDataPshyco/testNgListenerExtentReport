@@ -1,0 +1,58 @@
+{
+  "methods": [
+    {
+      "index": 0,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "resultFileName": "Setup",
+        "name": "setup",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615991949485,
+      "duration": 2281,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testNgOPenTheBrower",
+        "resultFileName": "TestNgOPenTheBrower",
+        "sign": "testNgItestListnerPractice.testNgOPenTheBrower()[pri:0, instance:tesNg.testNgItestListnerPractice@78fa769e]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615991951860,
+      "duration": 1872,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testNgCloseTheBrower",
+        "resultFileName": "TestNgCloseTheBrower",
+        "sign": "testNgItestListnerPractice.testNgCloseTheBrower()[pri:0, instance:tesNg.testNgItestListnerPractice@78fa769e]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615991953772,
+      "duration": 3414,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

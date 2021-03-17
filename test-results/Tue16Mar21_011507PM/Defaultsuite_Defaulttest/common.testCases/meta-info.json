@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "testthis",
+        "resultFileName": "Testthis",
+        "sign": "testCases.testthis()[pri:0, instance:common.testCases@383dc82c]"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1615918507502,
+      "duration": 20,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
