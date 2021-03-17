@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [
+        "chrome"
+      ],
+      "metaData": {
+        "resultFileName": "LaunchUrl",
+        "name": "launchUrl",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616016924307,
+      "duration": 2256,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

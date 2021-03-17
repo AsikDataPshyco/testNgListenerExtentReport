@@ -1,6 +1,11 @@
 {
   "reports": [
     {
+      "name": "testNGPracticeDataprovider",
+      "dir": "test-results/Wed17Mar21_043524PM",
+      "startTime": 1616016924222
+    },
+    {
       "name": "Default suite",
       "dir": "test-results/Wed17Mar21_035930PM",
       "startTime": 1616014770955
