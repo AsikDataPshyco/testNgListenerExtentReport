@@ -1,0 +1,35 @@
+public static void seleniumWindowHandler(){
+
+		System.SetProperty("Webdriver.Driver.chorms",path);
+
+		WebDriver driver = new ChromeDriver();
+
+		driver.manage.window.maximize();
+
+		driver.get(url);
+
+   String mainWindow = driver.getWindowHandle();
+   Set<String> allWindows = driver.getWindowHandles();
+   
+   for(String getWindows : allWindows ){
+	   
+	   while(getWindows.hasNext()) {
+		   
+		   String ChildWindow = getWindows.next();
+		   
+		   if(!mainWindow.equalsIgnoreCase(ChildWindow)) {
+			   
+			   driver.switchTo().window(ChildWindow);
+			   
+			   /do operation /
+			   
+			   
+		   }
+		   
+		   
+	   }
+	   
+   }
+
+
+}
