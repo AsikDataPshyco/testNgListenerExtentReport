@@ -1,6 +1,31 @@
 {
   "reports": [
     {
+      "name": "Default suite",
+      "dir": "test-results/Thu18Mar21_041703PM",
+      "startTime": 1616102223980
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Thu18Mar21_023602PM",
+      "startTime": 1616096162427
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Thu18Mar21_022505PM",
+      "startTime": 1616095505981
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Thu18Mar21_022411PM",
+      "startTime": 1616095451454
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Thu18Mar21_014910PM",
+      "startTime": 1616093350720
+    },
+    {
       "name": "testNGPracticeDataprovider",
       "dir": "test-results/Wed17Mar21_043524PM",
       "startTime": 1616016924222

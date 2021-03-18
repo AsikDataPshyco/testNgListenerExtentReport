@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="extentReportSelenium.generateExtentReport">
+      <class name="windowHandle.seleniumWindowHandle">
         <methods>
-          <include name="endTest"/>
-          <include name="startTest"/>
-          <include name="extentReportsDemo"/>
+          <include name="windowHandle"/>
         </methods>
-      </class> <!-- extentReportSelenium.generateExtentReport -->
+      </class> <!-- windowHandle.seleniumWindowHandle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
