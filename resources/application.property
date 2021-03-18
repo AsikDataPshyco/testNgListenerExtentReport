@@ -1,0 +1,5 @@
+
+environment = "dev"
+baseURl = "www.google.com"
+userId = "Asik"
+password = "password"

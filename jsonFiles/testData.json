@@ -1,5 +1,11 @@
-{
+[
+	{
 		"testId": "1",
 		"userId": "tester",
 		"password": "tester123"
-}
+	},
+	{	"testId": "2",
+		"userId": "tester1",
+		"password": "tester123"
+	}
+]

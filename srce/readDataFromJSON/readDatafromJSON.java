@@ -20,10 +20,7 @@ public class readDatafromJSON {
 		
 		JSONObject testDatajson = (JSONObject)obj;
 		
-		String userName = (String)testDatajson.get("userId");
-		String password = (String)testDatajson.get("password");
-		
-		System.out.println(userName);
+	
 		
 
 	}
